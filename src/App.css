@@ -53,3 +53,9 @@ div.App{
 body {
   background-color: rgb(43, 92, 226);
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
