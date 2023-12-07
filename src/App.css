@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+div.App{
+  font-family: fantasy;
+  color: rgb(255, 0, 136);
+  font-weight: 100;
+  font-size: 150;
+  font-stretch: expanded;
+  box-shadow: 0 0 12px -2px black;
+  padding: 65px 14px 46px;
+}
+body {
+  background-color: rgb(43, 92, 226);
+}
